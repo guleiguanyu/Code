@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1507129246 source:d:\code\c\1increment\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1506643570 source:d:\code\c\1increment\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+
+1506643883 source:d:\code\c\1increment\second.c
+	<stdio.h>
+	<stdlib.h>
+
